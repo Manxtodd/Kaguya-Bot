@@ -36,6 +36,7 @@
     "discord.js-commando": "^0.10.0",
     "dotenv": "^8.2.0",
     "eris": "^0.14.0",
+    "express": "^4.17.1",
     "fetch-base64": "^2.1.2",
     "genius-lyrics": "^4.2.1",
     "genius-lyrics-api": "^3.0.6",

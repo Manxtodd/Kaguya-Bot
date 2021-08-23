@@ -1,14 +1,14 @@
 {
-  "token": "",
-  "default_prefix": "k!",
-  "ownerID": "433077782881370112",
-  "ownerName": "Achan#6390",
-    "botID": "680297296348315649",
-    "botName": "KaguyaBot#8606",
+  "token": "NzYyODkxMzA0MjU3OTc4Mzgw.X3vv5A.qoD8kGmrOmTs-NygADDK6Pdi_GQ",
+  "default_prefix": "a!",
+  "ownerID": "302297098156507146",
+  "ownerName": "Rennn#6872",
+    "botID": "762891304257978380",
+    "botName": "Azuraa#0753",
     "embedColor": "RANDOM",
     "youtubeAPI": "",
     "YOUTUBE_API_KEY": "",
   "COLOR": "RANDOM",
   "ytapi": "-",
-  "inviteURL": "https://discord.com/oauth2/authorize?client_id=680297296348315649&scope=bot&permissions=bot"
+  "inviteURL": ""
 }
