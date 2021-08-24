@@ -1,5 +1,5 @@
 # Kaguya-Bot
-Thanks To Achan
+Thanks To Achan And [Alfian Reno](https://github.com/Alfian Reno)
 
 > Commands banyak Bisa di pilih satu satu <br>Kalo ada Yang rusak benerin sendiri, Mandiri bego
 
