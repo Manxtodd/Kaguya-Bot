@@ -1,9 +1,7 @@
 # Kaguya-Bot
-Bot Create By Achan
+Thanks To Achan
 
-Commands banyak Bisa di pilih satu satu 
-
-Kalo ada Yang rusak benerin sendiri, Mandiri bego
+> Commands banyak Bisa di pilih satu satu <br>Kalo ada Yang rusak benerin sendiri, Mandiri bego
 
 <br >
 
