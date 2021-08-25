@@ -1,7 +1,7 @@
 # Kaguya-Bot
 Thanks To [Achan](https://github.com/fskhrijuanda) And [Alfian Reno](https://github.com/AlfianReno)
 
-> Commands banyak Bisa di pilih satu satu <br>Kalo ada Yang rusak benerin sendiri, Mandiri bego
+> Commands banyak bisa pilih satu-satu<br><br>Kalo ada yang rusak benerin sendiri, Mandiri bego
 
 <br >
 
